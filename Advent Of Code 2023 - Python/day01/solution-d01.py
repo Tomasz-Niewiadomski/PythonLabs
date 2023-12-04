@@ -1,13 +1,13 @@
 """
     Language : Python 🐍
     Project : Advent Of Code 2023 🎄
-    Stage : day #1 / ⭐️ #1
+    Stage : day #1 / ⭐️ #1&2
     Brief : Find net value from corrupted instructions
-    Author : blue-neptune8
+    Author : Tomasz-Niewiadomski
     Date : Noon 01122023
 """
 
-import re # Standard regex library
+import re 
 
 word_to_num = {'one': '1',
                'two': '2',
@@ -30,7 +30,7 @@ def get_clean_data(path="day01-puzzle.txt"):
         data = f.read()
         return list(filter(None, data.split("\n"))) # Split by newline, drop empty elements (data can end with '/n')
 
-
+# t1&t2
 def get_net_calibration_values(data = get_clean_data()):
     
     denoised_data = [re.findall(pattern2, line) for line in data] # Get data matching pattern

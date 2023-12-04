@@ -3,8 +3,8 @@
     Project : Advent Of Code 2023 🎄
     Stage : day #3 / ⭐️ #1
     Brief : Find numbers that neighbour a symbol
-    Author : blue-neptune8
-    Date : Noon 01122023
+    Author : Tomasz-Niewiadomski
+    Date : Evening 03122023
 """
 # Final version inspired by @keithstellyes as my first solution was terrible
 

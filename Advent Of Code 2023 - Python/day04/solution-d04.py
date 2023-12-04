@@ -3,7 +3,7 @@
     Project : Advent Of Code 2023 🎄
     Stage : day #4 / ⭐️ #1&2
     Brief : Solve scratch cards ♠️♥️♣️♦️
-    Author : blue-neptune8
+    Author : Tomasz-Niewiadomski
     Date : Evening 04122023
 """
 

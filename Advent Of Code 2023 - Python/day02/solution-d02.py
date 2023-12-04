@@ -1,11 +1,11 @@
 """
     Language : Python 🐍
     Project : Advent Of Code 2023 🎄
-    Stage : day #2 / ⭐️ #1
+    Stage : day #2 / ⭐️ #1&2
     Task : Cube Conundrum
     Brief : Possible colored cubes games 
-    Author : blue-neptune8
-    Date : Noon 01122023
+    Author : Tomasz-Niewiadomski
+    Date : Noon 02122023
 """
 
 import re # Standard regex library
